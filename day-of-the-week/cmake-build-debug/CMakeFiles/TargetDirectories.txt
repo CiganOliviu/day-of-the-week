@@ -1,0 +1,3 @@
+C:/Users/crist/OneDrive/Desktop/Github/day-of-the-week/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crist/OneDrive/Desktop/Github/day-of-the-week/cmake-build-debug/CMakeFiles/day_of_the_week.dir
+C:/Users/crist/OneDrive/Desktop/Github/day-of-the-week/cmake-build-debug/CMakeFiles/rebuild_cache.dir
